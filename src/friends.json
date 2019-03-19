@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Tyrion",
+    "image": "https://pbs.twimg.com/profile_images/589936768335634432/LebGvyCB_400x400.jpg",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 2,
+    "name": "Cersei",
+    "image": "https://shortlist.imgix.net/app/uploads/2017/08/24174526/cbb2bc94086fbb1a80ebcf5e717d31c8-256x256.png?w=256&h=256&fit=max&auto=format%2Ccompress",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 3,
+    "name": "Gendry",
+    "image": "https://pbs.twimg.com/profile_images/3656541184/8abdcbad902ee3646eec692458f68099.jpeg",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 4,
+    "name": "Jon Snow",
+    "image": "https://pbs.twimg.com/profile_images/613894506480439296/MGWBzW3B_400x400.jpg",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 5,
+    "name": "Daenerys",
+    "image": "https://pbs.twimg.com/profile_images/586650383675711488/tmIahnw-_400x400.jpg",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 6,
+    "name": "Jaime",
+    "image": "https://pbs.twimg.com/profile_images/702597942838992897/YPiVEfba_400x400.jpg",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 7,
+    "name": "Arya",
+    "image": "https://steamuserimages-a.akamaihd.net/ugc/945084836989688263/DE7B6D0AF2A5F3D2625BE084372B00E252397A50/",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 8,
+    "name": "Sansa",
+    "image": "https://stylist-assets.imgix.net/app/uploads/2019/02/21114423/sansa-crop-1550749468-640x640.jpeg?w=256&h=256&fit=max&auto=format%2Ccompress",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 9,
+    "name": "Bran",
+    "image": "https://pm1.narvii.com/6107/62bab9ea8f52d8794e601e46519d190995ace0fc_128.jpg",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 10,
+    "name": "Night King",
+    "image": "https://i.pinimg.com/originals/cf/22/be/cf22be3eda8a8786616a263dbdec1734.jpg",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 11,
+    "name": "Sandor",
+    "image": "https://pbs.twimg.com/profile_images/597760902759206912/ywNIA8Ot_400x400.jpg",
+    "clicked": false,
+    "show": false
+  },
+  {
+    "id": 12,
+    "name": "Brienne",
+    "image": "https://pbs.twimg.com/profile_images/378800000133933698/1461f48a5b43c5a9ae7c8a92b87d5c1d.png",
+    "clicked": false,
+    "show": false
+  }
+]
