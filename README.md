@@ -9,7 +9,8 @@ To click one twice is to prove yourself a fool, and you will be forever shunned.
 * React
 * Node.js
 ***
-Deployed here: 
+Deployed here: https://danger-academy.github.io/game-of-clicks/
+
 
 
 
