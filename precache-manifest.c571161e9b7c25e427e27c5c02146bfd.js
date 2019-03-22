@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/game-of-clicks/static/js/runtime~main.ee7410c7.js"
   },
   {
-    "revision": "4664edc3f515490eb278",
-    "url": "/game-of-clicks/static/js/main.0e94c8a0.chunk.js"
+    "revision": "daba39265ee1746859db",
+    "url": "/game-of-clicks/static/js/main.1a5de9d4.chunk.js"
   },
   {
     "revision": "4c7ab43a199eaffcb672",
     "url": "/game-of-clicks/static/js/2.da50c75f.chunk.js"
   },
   {
-    "revision": "4664edc3f515490eb278",
-    "url": "/game-of-clicks/static/css/main.ae17ee31.chunk.css"
+    "revision": "daba39265ee1746859db",
+    "url": "/game-of-clicks/static/css/main.207f35db.chunk.css"
   },
   {
-    "revision": "a7db0ab31ce6cb4de54b302310e2e97f",
+    "revision": "5d2d45c77ff9b93c42db5cdb91534699",
     "url": "/game-of-clicks/index.html"
   }
 ];

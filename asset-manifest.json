@@ -1,13 +1,13 @@
 {
-  "main.css": "/game-of-clicks/static/css/main.ae17ee31.chunk.css",
-  "main.js": "/game-of-clicks/static/js/main.0e94c8a0.chunk.js",
-  "main.js.map": "/game-of-clicks/static/js/main.0e94c8a0.chunk.js.map",
+  "main.css": "/game-of-clicks/static/css/main.207f35db.chunk.css",
+  "main.js": "/game-of-clicks/static/js/main.1a5de9d4.chunk.js",
+  "main.js.map": "/game-of-clicks/static/js/main.1a5de9d4.chunk.js.map",
   "runtime~main.js": "/game-of-clicks/static/js/runtime~main.ee7410c7.js",
   "runtime~main.js.map": "/game-of-clicks/static/js/runtime~main.ee7410c7.js.map",
   "static/js/2.da50c75f.chunk.js": "/game-of-clicks/static/js/2.da50c75f.chunk.js",
   "static/js/2.da50c75f.chunk.js.map": "/game-of-clicks/static/js/2.da50c75f.chunk.js.map",
   "index.html": "/game-of-clicks/index.html",
-  "precache-manifest.97afc51d86729fec0eafe1835551e02a.js": "/game-of-clicks/precache-manifest.97afc51d86729fec0eafe1835551e02a.js",
+  "precache-manifest.c571161e9b7c25e427e27c5c02146bfd.js": "/game-of-clicks/precache-manifest.c571161e9b7c25e427e27c5c02146bfd.js",
   "service-worker.js": "/game-of-clicks/service-worker.js",
-  "static/css/main.ae17ee31.chunk.css.map": "/game-of-clicks/static/css/main.ae17ee31.chunk.css.map"
+  "static/css/main.207f35db.chunk.css.map": "/game-of-clicks/static/css/main.207f35db.chunk.css.map"
 }
