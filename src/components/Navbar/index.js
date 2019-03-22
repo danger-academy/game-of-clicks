@@ -7,13 +7,13 @@ const Navbar = props => (
     <div >
         <nav className="navbar">
             <div className="col-sm text-center">
-                <h3>Game of Clicks</h3>
+                <h3 className="title">Game of Clicks</h3>
             </div>
             <div className="col-sm text-center">
-                <div className="float-center"><GameMessage score={props.score} topScore={props.topScore} /></div>
+                <div className="float-center" id="message"><GameMessage score={props.score} topScore={props.topScore} /></div>
             </div>
             <div className="col-sm text-center">
-                <div className="float-right">Score: {props.score} | Top Score: {props.topScore}</div>
+                <div className="float-right" id="score">Score: {props.score} | Top Score: {props.topScore}</div>
             </div>
         </nav>
     </div>

@@ -45,7 +45,7 @@ class GameMessage extends Component {
         case "incorrect":
           return "You have chosen...poorly.";
         default:
-          return "Choose a choice to begin your start.";
+          return "To begin, you must choose.";
         }
     };
 

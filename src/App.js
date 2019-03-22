@@ -4,6 +4,7 @@ import Wrapper from "./components/Wrapper";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import friends from "./friends.json";
+import "./App.css";
 
 class App extends Component {
   // Setting this.state.friends to the friends json array
@@ -99,14 +100,14 @@ class App extends Component {
         <Navbar score={this.state.score} topScore = {this.state.topScore}></Navbar>
         <Header />
         <div className="container">
-        <div className="row">
+        <div className="card-deck" align="center">
         {this.state.friends.map(friend => (
-          <div className={this.state.show ? 'shake col-3' : 'col-3'} key={friend.id}>
-          <GameCard
-            id={friend.id}
-            image={friend.image}
-            handleClick={this.gameCardClick}
-          />
+          <div className={this.state.show} key={friend.id}>
+            <GameCard
+              id={friend.id}
+              image={friend.image}
+              handleClick={this.gameCardClick}
+            />
           </div>
         ))}
         </div>

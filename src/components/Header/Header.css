@@ -1,8 +1,12 @@
 .header {
-    background: linear-gradient(to right, black , #860303);
-    color: #ffe600;
-    min-height: 200px;
-    padding: 90PX 20px;
-    padding-bottom: 20px;
+    background: linear-gradient(to right, black, #860303);
+    width: 100%;
+    padding: 130px 20px 10px 20px;
     text-align: center;
+}
+#subhead {
+    color: rgba(61, 61, 61, 0.623);
+    font-family: 'Garamond', serif;
+    font-size: calc(16px + 14 * (100vw - 320px)/ 800);
+    text-shadow: 1px 1px #ffd904;
 }

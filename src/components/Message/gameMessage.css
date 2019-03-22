@@ -2,18 +2,20 @@
 .gameMessage {
     text-align: center;
     font-size: 1.5em;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Garamond', serif;
 }
 
 .black {
-    color: #303030;
+    color: #838181;
+    text-shadow: 2px 2px #070707;
 }
 
 .correct {
     color: ivory;
+    text-shadow: 2px 2px #070707;
 }
 
 .incorrect {
-    color: darkred;
-    -webkit-text-stroke: 1px black;
+    color: rgb(255, 22, 6);
+    text-shadow: 2px 2px #070707;
 }
