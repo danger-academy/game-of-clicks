@@ -5,7 +5,6 @@ In this react app, you attempt to click each of the twelve GoT characters only o
 To click one twice is to prove yourself a fool, and you will be forever shunned.
 ***
 ### Tech Used
-* MongoDB
 * React
 * Node.js
 ***
